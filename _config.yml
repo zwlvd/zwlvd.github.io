@@ -12,7 +12,7 @@ title                    : "Xin Miao/Personal HomePage "
 title_separator          : "-"
 name                     : &name "xin miao"
 description              : &description "personal description"
-url                      : https://zwlvd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zwlvd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zwlvd/zwlvds.github.io"
 
