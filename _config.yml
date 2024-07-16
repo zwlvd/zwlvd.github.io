@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xin Miao "
 title_separator          : "-"
 name                     : &name "xin miao"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "zwlvd/zwlvds.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "miaoxin.png"
+  name             : "Xin Miao"
   pronouns         : # example: "she/her"  
   bio              : "Zhejiang University"
   location         : "China Hangzhou"
-  employer         : "Red Brick University"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "1277784810@qq.com" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
