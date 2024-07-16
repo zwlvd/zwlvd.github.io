@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xin Miao "
 title_separator          : "-"
-name                     : &name "xin miao"
+name                     : &name "xin miao/Personal HomePage"
 description              : &description "personal description"
 url                      : https://zwlvd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   bio              : "Zhejiang University"
   location         : "China Hangzhou"
   employer         : "Zhejiang University"
-  uri              : # URL
+  uri              : https://zwlvd.github.io
   email            : "1277784810@qq.com" 
 
   # Academic websites
